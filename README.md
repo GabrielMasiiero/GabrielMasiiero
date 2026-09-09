@@ -3,7 +3,7 @@ Desenvolvedor Full-Stack.
 
 Graduado em Análise e Desenvolvimento de Sistemas - UNICESUSC.
 
-Atualmente, estou aprimorando meus conhecimentos em Typescript, e estudando sobre AI Agents.
+Atualmente, estou aprimorando meus conhecimentos em Typescript, estudando sobre AI Agents e fundando minha Startup.
 
 Fique a vontade em explorar meus projetos!
 
