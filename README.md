@@ -1,7 +1,7 @@
 ## Bem-Vindo! Me chamo Gabriel Masiero.
 Desenvolvedor Full-Stack.
 
-Atualmente, estou aprimorando meus conhecimentos em Typescript, estudando sobre AI Agents e fundando minha Startup.
+Atualmente, estou aprimorando meus conhecimentos em Typescript, estudando sobre AI Agents e fundando minha startup.
 
 Fique a vontade em explorar meus projetos!
 
